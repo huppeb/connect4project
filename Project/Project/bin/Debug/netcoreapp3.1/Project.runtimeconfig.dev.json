@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Meryem\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Meryem\\.nuget\\packages"
+    ]
+  }
+}
